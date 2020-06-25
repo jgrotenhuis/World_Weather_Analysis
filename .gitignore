@@ -5,6 +5,9 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+# Add test1
+test1.ipynb
+
 # Adding ds.store file.
 .DS_Store
 
